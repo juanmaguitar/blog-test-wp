@@ -1,4 +1,4 @@
 vvv-hosts
 vvv-init.sh
 wp-cli.yml
-htdocs/wp-config.php
+wp-config.php*
